@@ -1,2 +1,2 @@
-# zadanie_17_7
+# ExpressJS-Google-login
 Uwierzytelnianie aplikacji za pomocą Google
